@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated images / local output
+laozhang-images/
+*.png
+*.jpg
+*.jpeg
+
+# Local env / secrets
+.env
+*.local.json

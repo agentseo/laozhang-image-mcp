@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "laozhang-image": {
+      "command": "/path/to/laozhang-image-mcp/.venv/bin/python",
+      "args": ["/path/to/laozhang-image-mcp/server.py"],
+      "env": {
+        "LAOZHANG_API_KEY": "${LAOZHANG_API_KEY}",
+        "LAOZHANG_MODEL": "gpt-image-2-vip",
+        "LAOZHANG_OUT_DIR": "/path/to/output/laozhang-images"
+      }
+    }
+  }
+}
