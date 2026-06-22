@@ -1,7 +1,7 @@
 # laozhang-image MCP
 
 An [MCP](https://modelcontextprotocol.io) server that exposes **image generation
-and editing** through [laozhang.ai](https://api.laozhang.ai) — an
+and editing** through [laozhang.ai]([https://api.laozhang.ai](https://api.laozhang.ai/register/?aff_code=ZkDN)) — an
 OpenAI-compatible API proxy/aggregator. Default model: **`gpt-image-2-vip`**
 (flat ~$0.03 per image).
 
