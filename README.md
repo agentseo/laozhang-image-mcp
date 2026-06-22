@@ -1,7 +1,7 @@
 # laozhang-image MCP
 
 An [MCP](https://modelcontextprotocol.io) server that exposes **image generation
-and editing** through [laozhang.ai]([https://api.laozhang.ai](https://api.laozhang.ai/register/?aff_code=ZkDN)) — an
+and editing** through [laozhang.ai](https://api.laozhang.ai/register/?aff_code=ZkDN) — an
 OpenAI-compatible API proxy/aggregator. Default model: **`gpt-image-2-vip`**
 (flat ~$0.03 per image).
 
@@ -71,7 +71,7 @@ curl https://api.laozhang.ai/v1/images/generations \
 ## Русский
 
 MCP-сервер для генерации и редактирования картинок через
-[laozhang.ai](https://api.laozhang.ai) — OpenAI-совместимый прокси-агрегатор.
+[laozhang.ai](https://api.laozhang.ai/register/?aff_code=ZkDN) — OpenAI-совместимый прокси-агрегатор.
 Модель по умолчанию **`gpt-image-2-vip`** (~$0.03 за картинку). Подходит для
 любого MCP-клиента (Claude Code, Claude Desktop).
 
